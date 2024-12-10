@@ -22,6 +22,6 @@ class AppServiceProvider extends ServiceProvider
     {
         //
 
-        URL::forceHttps();
+        // URL::forceHttps();
     }
 }

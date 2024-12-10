@@ -4,7 +4,7 @@
         <div class="card glass w-72">
 
             <div class="card-body">
-                <h2 class="card-title">Jumlah karyawan</h2>
+                <h2 class="card-title">Jumlah Karyawan</h2>
                 <p>{{ $employees }}</p>
 
             </div>
